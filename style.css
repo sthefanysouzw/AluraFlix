@@ -5,9 +5,9 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgba(227, 117, 152, 0.406); // border-bottom: = borda inferior.
-    padding: 20px; // espaçamento interno
-    font-size: 32px; // tamanho da fonte 
+    border-bottom: solid 2px rgba(227, 117, 152, 0.406); border-bottom: = borda inferior.
+    padding: 20px; espaçamento interno
+    font-size: 32px; tamanho da fonte 
     color: rgb(42, 122, 228);
 }
 
