@@ -1,11 +1,11 @@
 body {
     background-color: rgba(239, 174, 240, 0.965);
-    color: rgba(247, 243, 243, 0.044);
+    color: rgba(20, 7, 7, 0.919);
     margin: 0px;
 }
 
 header {
-    border-bottom: solid 2px rgba(227, 117, 152, 0.406); border-bottom: = borda inferior.
+    border-bottom: solid 2px rgba(16, 0, 5, 0.406); border-bottom: = borda inferior.
     padding: 20px; espaçamento interno
     font-size: 32px; tamanho da fonte 
     color: rgb(42, 213, 228);
